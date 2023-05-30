@@ -2,7 +2,7 @@
 
   # Welcome to my Github
   
-  I'm a SecDevOps Engineer/Team Lead depending on what the situation calls for. I've worked as Director of IT for non-profits, operated a local B2B datacenter, and have worked with a few open souce organizations such as [Page DAO](https://github.com/PageDAO) and [PizzaDAO](https://github.com/PizzaDAO).
+  I'm a SecDevOps Engineer/Team Lead depending on what the situation calls for. I've worked as Director of IT for non-profits, operated a local B2B datacenter, and have worked with a few open souce organizations such as [Page DAO](https://github.com/PageDAO).
 
   <hr>
   

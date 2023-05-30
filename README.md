@@ -3,8 +3,6 @@
   # Welcome to my Github
   
   I'm a SecDevOps Engineer/Team Lead depending on what the situation calls for. I've worked as Director of IT for non-profits, operated a local B2B datacenter, and have worked with a few open souce organizations such as [Page DAO](https://github.com/PageDAO) and [PizzaDAO](https://github.com/PizzaDAO).
-  
-  While most of my contracting work is with companies developing internal propietary software, the open source ideoligies and hero's have always kept a special place in my heart.
 
   <hr>
   
@@ -15,12 +13,8 @@
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;&nbsp;
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;&nbsp;
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
   ![C# / Mono](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;&nbsp;
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;&nbsp;
-  ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;&nbsp;
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
   
   <br>
   
